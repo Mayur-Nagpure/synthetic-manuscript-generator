@@ -220,8 +220,6 @@ Dataset link:
 https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset/tree/main
 ```
 
-The actual link should be added after the Hugging Face dataset is created.
-
 ## Author
 
 Mayur Nagpure
