@@ -209,12 +209,14 @@ sharada
 Dataset:
 
 ```text
-[View Dataset on Hugging Face](https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset
+[View Dataset on Hugging Face](https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset)
 ```
 
 Dataset link:
 
 ```text
+[View Dataset on Hugging Face](https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset)
+
 https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset/tree/main
 ```
 
