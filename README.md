@@ -215,7 +215,7 @@ Dataset:
 Dataset link:
 
 ```text
-https://huggingface.co/datasets/YOUR_HUGGING_FACE_USERNAME/synthetic-manuscript-dataset
+https://huggingface.co/datasets/M3221/synthetic-manuscript-dataset/tree/main
 ```
 
 The actual link should be added after the Hugging Face dataset is created.
