@@ -109,7 +109,7 @@ The `.md` file contains the exact text rendered in the corresponding image.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/synthetic-manuscript-generator.git
+git clone https://github.com/Mayur-Nagpure/synthetic-manuscript-generator.git
 cd synthetic-manuscript-generator
 ```
 
